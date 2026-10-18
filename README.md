@@ -2,6 +2,9 @@
 
 Public downloads for the standalone HOT-BLOODED KICKOFF clients.
 
+- **Website:** https://un4ckn0wl3z.github.io/hotblood-clients/
+- **Player wiki (Thai / English):** https://un4ckn0wl3z.github.io/hotblood-clients/wiki/
+
 ## Download
 
 Get the newest Windows and Android builds from the
@@ -18,4 +21,5 @@ Android may ask you to allow installation from your browser or file manager.
 You can also play without installing anything at
 [hotblood.un4ckn0wl3z.dev](https://hotblood.un4ckn0wl3z.dev/).
 
-Source development happens in the private game repository; this public repository contains downloadable client releases only.
+Source development happens in the private game repository; this public repository contains downloadable client releases,
+the download page (`index.html`) and the player wiki (`wiki/`, copied here automatically from the game repository).
